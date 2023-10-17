@@ -1,0 +1,2 @@
+E:\C++works\DataStructure\SkillTree\Debug\SkillTree.exe
+E:\C++works\DataStructure\SkillTree\Debug\SkillTree.pdb

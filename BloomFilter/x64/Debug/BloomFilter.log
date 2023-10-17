@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2019: __imp__invalid_parameter"void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp__CrtDbgReport"void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+E:\C++works\DataStructure\BloomFilter\x64\Debug\BloomFilter.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.

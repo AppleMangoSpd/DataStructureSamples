@@ -1,0 +1,2 @@
+E:\C++works\DataStructure\Heap\Debug\Heap.exe
+E:\C++works\DataStructure\Heap\Debug\Heap.pdb

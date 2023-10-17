@@ -1,0 +1,2 @@
+E:\C++works\DataStructure\MusicPlayList\x64\Debug\MusicPlayList.exe
+E:\C++works\DataStructure\MusicPlayList\x64\Debug\MusicPlayList.pdb

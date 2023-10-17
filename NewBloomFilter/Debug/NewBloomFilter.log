@@ -1,0 +1,6 @@
+﻿main.obj : error LNK2019: _MD5"public: void __thiscall BloomFilter::hash(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?hash@BloomFilter@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Program Files\OpenSSL-Win64\lib\VC\libcrypto64MDd.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files\OpenSSL-Win64\lib\VC\libcrypto64MTd.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files\OpenSSL-Win64\lib\VC\libssl64MDd.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files\OpenSSL-Win64\lib\VC\libssl64MTd.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+E:\C++works\DataStructure\NewBloomFilter\Debug\NewBloomFilter.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

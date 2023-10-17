@@ -1,0 +1,2 @@
+E:\C++works\DataStructure\Array\Debug\Array.exe
+E:\C++works\DataStructure\Array\Debug\Array.pdb

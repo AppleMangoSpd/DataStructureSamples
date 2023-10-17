@@ -1,0 +1,2 @@
+E:\C++works\DataStructure\Deque\Debug\Deque.exe
+E:\C++works\DataStructure\Deque\Debug\Deque.pdb

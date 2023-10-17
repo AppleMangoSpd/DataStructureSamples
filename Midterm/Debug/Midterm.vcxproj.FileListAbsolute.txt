@@ -1,0 +1,2 @@
+E:\C++works\DataStructure\Midterm\Debug\Midterm.exe
+E:\C++works\DataStructure\Midterm\Debug\Midterm.pdb
